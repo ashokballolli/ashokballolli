@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Profile Hits: [![HitCount](http://hits.dwyl.com/ashokballolli/ashokballolli.svg)](http://hits.dwyl.com/ashokballolli/ashokballolli)
 <!--
 **ashokballolli/ashokballolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
