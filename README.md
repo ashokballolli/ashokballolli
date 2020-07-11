@@ -1,8 +1,6 @@
 ### Hi there 👋, reach me on [LinkedIn](https://www.linkedin.com/in/ashokballolli/)
 [![HitCount](http://hits.dwyl.com/ashokballolli/ashokballolli.svg)](http://hits.dwyl.com/ashokballolli/ashokballolli)
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashokballolli/)
-
 ### Technical Profile Summary
 - Python, Scala, Java, Shell Scripting, SQL
 - Apache Airflow, Spark, Kafka, RabbitMQ
