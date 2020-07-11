@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Spark Streaming
 - 🌱 I’m currently learning Python, Scala, Airflow, Spark
-- 📫 How to reach me: LinkedIn[https://www.linkedin.com/in/ashokballolli/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashokballolli/)
 
 
