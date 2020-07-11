@@ -1,12 +1,18 @@
-### Hi there 👋
-Profile Hits: [![HitCount](http://hits.dwyl.com/ashokballolli/ashokballolli.svg)](http://hits.dwyl.com/ashokballolli/ashokballolli)
-<!--
-**ashokballolli/ashokballolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, reach me on [LinkedIn](https://www.linkedin.com/in/ashokballolli/)
+[![HitCount](http://hits.dwyl.com/ashokballolli/ashokballolli.svg)](http://hits.dwyl.com/ashokballolli/ashokballolli)
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Python, Scala, Airflow, Spark
-- 🌱 I’m currently learning Spark Streaming
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashokballolli/)
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashokballolli/)
 
-
+### Technical Profile Summary
+- Python, Scala, Java, Shell Scripting, SQL
+- Apache Airflow, Spark, Kafka, RabbitMQ
+- PostgreSQL, Oracle, MySQL, mongoDB, Redis, Memcache, MySQL+RocksDB, Elastic search, Sybase
+- Docker, Jenkins(CI/CD), GitHub, Bitbucket, Jira
+- Flask, Scala+Play, Spring-boot
+- AWS, GCP
+- Jupyter notebook, Google Colab
+- New Relic, Kibana Dashboard, Prometheus, Grafana, Graylog
+- Suse linux, Cent OS, Ubuntu, MacOS and Windows
+- Selenium, Locust, Gatling, RestAssured, TestNg, ScalaTest, Jacoco
+- Postman, Wireshark, soapUI
+- Web services testing, Data migration testing, System testing, Functional testing, IOT, UAT, GR Testing 
