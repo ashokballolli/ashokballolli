@@ -14,3 +14,5 @@
 - Selenium, Locust, Gatling, RestAssured, TestNg, ScalaTest, Jacoco
 - Postman, Wireshark, soapUI
 - Web services testing, Data migration testing, System testing, Functional testing, IOT, UAT, GR Testing 
+
+![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=ashokballolli&show_icons=true&theme=vue)
