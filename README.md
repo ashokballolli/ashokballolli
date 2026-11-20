@@ -13,9 +13,7 @@
 - Jupyter notebook, Google Colab
 - New Relic, Kibana Dashboard, Prometheus, Grafana, Graylog
 - Suse linux, Cent OS, Ubuntu, MacOS and Windows
-- Selenium, Locust, Gatling, RestAssured, TestNg, ScalaTest, Jacoco
-- Postman, Wireshark, soapUI
-- Web services testing, Data migration testing, System testing, Functional testing, IOT, UAT, GR Testing 
+
 
 ![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=ashokballolli&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
